@@ -355,7 +355,7 @@ ul{margin:0;padding:0;list-style:none}
 /* ---------- page hero (inner) ---------- */
 .phero{position:relative;overflow:hidden;border-bottom:1px solid var(--line-soft);background:var(--ink-2)}
 .phero-in{position:relative;display:grid;grid-template-columns:1.1fr .9fr;gap:44px;align-items:center;padding:58px 22px}
-.phero h1{font-size:clamp(31px,4.4vw,58px);line-height:.96}
+.phero h1{font-size:clamp(30px,4.1vw,54px);line-height:.97}
 .phero h1 em{font-style:normal;color:var(--orange)}
 .phero .slead{margin-top:20px;font-size:16.5px;max-width:560px}
 .phero-media img{width:100%;aspect-ratio:4/3;object-fit:cover;border:1px solid var(--line)}
